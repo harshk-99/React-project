@@ -1,0 +1,146 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-repeat: no-repeat;
+}
+
+.thumbnail {
+  position: relative;
+  right: 200px;
+  bottom: 50px;
+}
+
+.Navigation {
+  padding-left: 20px;
+}
+
+.Navigation img {
+  position: relative;
+  bottom: 3px;
+}
+
+.nav-items {
+  margin: 0 auto;
+  position: relative;
+  left: 55px;
+}
+
+.nav-item {
+  color: black !important;
+  font-weight: 600;
+  padding: 30px;
+}
+
+.right {
+  position: relative;
+  left: 400px;
+}
+
+.shop {
+  background-color: black !important;
+  border-radius: 80px;
+  padding: 10px 0;
+}
+
+.shop span {
+  padding: 40px;
+}
+
+.btn-1 {
+  padding-top: 15px;
+}
+
+.drop {
+  color: rgb(31, 28, 28) !important;
+  padding-top: 10px;
+  transform: scaleX(-1);
+}
+
+.menu {
+  top: 100px;
+  right: 50px;
+  bottom: -60px;
+  left: -150px;
+}
+
+.coming-soon-content {
+  position: relative;
+  padding: 70px 0;
+  text-align: left;
+}
+
+.coming-soon-content p {
+  font-weight: 600;
+}
+
+.coming-soon-content h1 {
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 70px;
+  width: 460px;
+}
+
+.input-field {
+  padding: 40px 0;
+}
+
+.notify {
+  font-weight: 600;
+  border-radius: 0 40px 40px 0;
+  border-width: 2px;
+}
+
+.input {
+  border-width: 2px;
+  border-radius: 50px;
+  padding: 25px 0 25px 40px;
+  border-color: black;
+}
+
+.updates p {
+  font-weight: 400;
+}
+
+.social-icons {
+  padding: 0 50px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 0 50px;
+}
+
+.social {
+  text-align: left;
+}
+
+.social button {
+  border: none;
+  outline: none;
+  background-color: Transparent;
+  padding: 0 20px;
+  position: relative;
+  top: 125px;
+}
+
+.copyright {
+  text-align: center;
+  font-weight: lighter;
+  position: relative;
+  top: 100px;
+}
+
+.footer-links a {
+  color: inherit;
+  text-decoration: none;
+  float: right;
+  margin: 50px;
+  font-weight: 600;
+}
+
+.underlined {
+  border-bottom: 2px solid #000;
+  padding: 0px 0px 5px 0px !important;
+}
