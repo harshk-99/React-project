@@ -26,7 +26,7 @@ function Navigation() {
   return (
     <div className="Navigation">
       <Navbar light expand="md">
-        <NavbarBrand href="/">
+        <NavbarBrand className="brand" href="/">
           <img src={logo} alt="logo" height="75" width="75" />
           AbsoluteX
         </NavbarBrand>
@@ -52,7 +52,7 @@ function Navigation() {
               <NavLink className="btn-1" href="#">
                 <button type="button" className="btn btn-dark shop">
                   <span>
-                    Shop <CallMadeIcon style={{ fontSize: "medium" }} />
+                    Shop <CallMadeIcon style={{ fontSize: 20 }} />
                   </span>
                 </button>
               </NavLink>

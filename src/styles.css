@@ -14,6 +14,10 @@
   padding-left: 20px;
 }
 
+.brand {
+  font-size: 25px;
+}
+
 .Navigation img {
   position: relative;
   bottom: 3px;
@@ -28,12 +32,13 @@
 .nav-item {
   color: black !important;
   font-weight: 600;
+  font-size: 20px;
   padding: 30px;
 }
 
 .right {
   position: relative;
-  left: 400px;
+  left: 350px;
 }
 
 .shop {
@@ -43,6 +48,7 @@
 }
 
 .shop span {
+  font-size: 18px;
   padding: 40px;
 }
 
