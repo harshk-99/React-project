@@ -242,3 +242,25 @@ footer {
   font-size: 10px;
   color: grey;
 }
+
+.about {
+  text-align: center;
+}
+
+.about .title {
+  padding: 80px 0;
+  background-color: #0b5876;
+}
+
+.about .title h1 {
+  color: #5ccff3;
+}
+
+.about .title h3 {
+  color: white;
+}
+
+.about .content {
+  padding: 50px 600px;
+  background-color: #ebf5f5;
+}

@@ -16,9 +16,9 @@ function Quantity(props) {
           Available: <span className="quantity-figure">{props.available}</span>
         </span>
       </p>
-      <div class="progress">
+      <div className="progress">
         <div
-          class="progress-bar"
+          className="progress-bar"
           role="progressbar"
           style={barStyle}
           aria-valuenow={barValue}

@@ -3,6 +3,7 @@ import Navigation from "./components/Navigation";
 import ComingSoon from "./components/ComingSoon";
 import Footer from "./components/Footer";
 import Featured from "./components/Featured";
+import About from "./components/About";
 import bg from "../public/bg.jpg";
 
 export default function App() {
@@ -30,6 +31,7 @@ export default function App() {
         </div>
       </div>
       <Featured />
+      <About />
       {/* <Footer /> */}
     </div>
   );
