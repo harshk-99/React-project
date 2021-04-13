@@ -4,6 +4,7 @@ import ComingSoon from "./components/ComingSoon";
 import Footer from "./components/Footer";
 import Featured from "./components/Featured";
 import About from "./components/About";
+import Services from "./components/Services";
 import bg from "../public/bg.jpg";
 
 export default function App() {
@@ -32,6 +33,7 @@ export default function App() {
       </div>
       <Featured />
       <About />
+      <Services />
       {/* <Footer /> */}
     </div>
   );
