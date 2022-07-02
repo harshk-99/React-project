@@ -4,7 +4,7 @@ import FeaturedItemCard from "./FeaturedItemCard";
 function Featured() {
   return (
     <div className="featured">
-      <p className="heading">Deal of the week</p>
+      <p className="heading">Deal Of The Month</p>
       <hr />
       <div className="container">
         <div className="row featured-card">
